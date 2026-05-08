@@ -11,7 +11,7 @@
     - [Option B: Clone from GitHub](#option-b-clone-from-github)
 - [STEP 4: Create a Web App](#step-4-create-a-web-app)
 - [STEP 5: Database Setup](#step-5-database-setup)
-- [If You Fetch Permission issue](#note-if-you-fetch-any-permission-issue)
+- [If You Fetch Any Permission issue](#note-if-you-fetch-any-permission-issue)
 
 ## **STEP 1: Prepare Your Django Project (Locally)**
 
